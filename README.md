@@ -21,8 +21,8 @@ A graphical depiction of the taxonomy is available here:  https://app.lucidchart
     <td class="tg-0pky" rowspan="12">Data and Control</td>
     <td class="tg-0pky">Types of Data Collected</td>
     <td class="tg-0pky">We try to keep this agnostic to the characteristics of the data, which we separate into a different dimensions, or the sensors from which it is collected. This level of abstraction is selected to best allow for the open texture of the Documentation. </td>
-    <td class="tg-0pky">'Location Data', 'Profile Data', 'Technical Meta-data', 'Physical activity Data', 'Social Data', 'Behaviour Data', 'Electronic Identifier' 'Basic Account Data', 'Photos and Videos' and 'User Registration Data/Contract Details'<br></td>
     <td class="tg-0pky">-</td>
+    <td class="tg-0pky">'Location Data', 'Profile Data', 'Technical Meta-data', 'Physical activity Data', 'Social Data', 'Behaviour Data', 'Electronic Identifier' 'Basic Account Data', 'Photos and Videos' and 'User Registration Data/Contract Details'<br></td>
   </tr>
   <tr>
     <td class="tg-0pky">Active Audience</td>
@@ -306,7 +306,7 @@ A graphical depiction of the taxonomy is available here:  https://app.lucidchart
     <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>14&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0pky">   <br>Data owners and consumers should come to an agreement regarding the reward that the data owners might receive as a return for taking the risks of sharing data.   </td>
     <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Yes&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="background-color:yellow">Partially</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="background-color:">Partially</span>&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0pky">We specify 'functionalities', which are arguable a part of the 'reward' that data subjects receive. However, there can be monetary rewards as well though they were not available in the sample space.</td>
   </tr>
   <tr>
