@@ -425,7 +425,7 @@ A graphical depiction of the taxonomy is available here:  https://app.lucidchart
 
 <h3>Table 3: Sample Application of the Taxonomy Codes from Document Samples</h3>
 
-div class="tg-wrap"><table class="tg">
+<div class="tg-wrap"><table class="tg">
 <thead>
   <tr>
     <th class="tg-0pky">S. No.</th>
