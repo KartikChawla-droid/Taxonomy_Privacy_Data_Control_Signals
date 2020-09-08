@@ -1,4 +1,4 @@
-# Taxonomy_Privacy_Data_Control_Signals
+# Taxonomy for the Representation of Privacy and Data Control Signals
 
 A graphical depiction of the taxonomy is available here:  https://app.lucidchart.com/documents/view/dcc2b794-80ed-4dfc-8da8-7679eb8923ae
 
