@@ -19,9 +19,9 @@ A graphical depiction of the taxonomy is available here:  https://app.lucidchart
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax" rowspan="25">Data and Control</td>
-    <td class="tg-0lax" rowspan="14">Types of Data Collected</td>
-    <td class="tg-0lax" rowspan="14">We try to keep this agnostic to the characteristics of the data, which we separate into a different dimensions, or the sensors from which it is collected. This level of abstraction is selected to best allow for the open texture of the Documentation. </td>
+    <td class="tg-0lax" rowspan="26">Data and Control</td>
+    <td class="tg-0lax" rowspan="15">Types of Data Collected</td>
+    <td class="tg-0lax" rowspan="15">We try to keep this agnostic to the characteristics of the data, which we separate into a different dimensions, or the sensors from which it is collected. This level of abstraction is selected to best allow for the open texture of the Documentation. </td>
     <td class="tg-0lax">-</td>
     <td class="tg-0lax">Technical Meta-data</td>
     <td class="tg-0lax">(Device information, network information, app information)<br></td>
@@ -48,7 +48,12 @@ A graphical depiction of the taxonomy is available here:  https://app.lucidchart
   </tr>
   <tr>
     <td class="tg-0lax">-</td>
-    <td class="tg-0lax">Location data </td>
+    <td class="tg-0lax">Approximate Location data </td>
+    <td class="tg-0lax">(Eg.: Time Zone, Country level TLD)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">-</td>
+    <td class="tg-0lax">Precise Location data </td>
     <td class="tg-0lax">(GPS-based, WiFi-based, Bluetooth-based)</td>
   </tr>
   <tr>
@@ -89,7 +94,7 @@ A graphical depiction of the taxonomy is available here:  https://app.lucidchart
   <tr>
     <td class="tg-0lax">-</td>
     <td class="tg-0lax">Payment data</td>
-    <td class="tg-0lax">[PENDING]</td>
+    <td class="tg-0lax">Eg: (Payment provider, payment method, price, VAT, payment status, discount)</td>
   </tr>
   <tr>
     <td class="tg-0lax">Active Audience</td>
@@ -213,8 +218,8 @@ A graphical depiction of the taxonomy is available here:  https://app.lucidchart
   </tr>
   <tr>
     <td class="tg-0lax">Actions on Data</td>
-    <td class="tg-0lax">We identify five 'actions' on data from the sample set. Anonymisation at the basic level indicates if anonymisation is conducted or not (Yes/No), but can be expanded to include the method of anonymisation if such information is available. (Generation/Transfer?)<br></td>
-    <td class="tg-0lax">(Collection, Transfer, Retention, Aggregation, Psuedonomysation or anonymisation(Method of anonymisation))</td>
+    <td class="tg-0lax">We identify six 'actions' on data from the sample set. Anonymisation at the basic level indicates if anonymisation is conducted or not (Yes/No), but can be expanded to include the method of anonymisation if such information is available. (Generation/Transfer?)<br></td>
+    <td class="tg-0lax">(Collection, Transfer, Retention, Aggregation of multiple users' data, correlation of user data with other available data Psuedonomysation or anonymisation(Method of anonymisation))</td>
     <td class="tg-0lax">-</td>
     <td class="tg-0lax">-</td>
   </tr>
@@ -235,7 +240,7 @@ A graphical depiction of the taxonomy is available here:  https://app.lucidchart
   </tr>
   <tr>
     <td class="tg-0lax" rowspan="2">Policy Change Information</td>
-    <td class="tg-0lax" rowspan="2">Information regarding how changes to the policy are made, and whether they are communicated to the user or not. n most cases, this service providers state that they can make changes to their policy at their discretion and the obligation is on the users to track changes to the policy. In [1/4] cases, the service provider stated that they would inform users in case of any significant changes.</td>
+    <td class="tg-0lax" rowspan="2">Information regarding how changes to the policy are made, and whether they are communicated to the user or not. n most cases, this service providers state that they can make changes to their policy at their discretion and the obligation is on the users to track changes to the policy. In [2/4] cases, the service provider stated that they would inform users in case of any significant changes.</td>
     <td class="tg-0lax">-</td>
     <td class="tg-0lax">How changes will be made</td>
     <td class="tg-0lax">(At the service provider's discretion)</td>
