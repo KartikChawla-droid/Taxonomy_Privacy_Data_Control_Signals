@@ -189,8 +189,8 @@ A graphical depiction of the taxonomy is available here:  https://app.lucidchart
     <td class="tg-0lax">-</td>
   </tr>
     <tr>
-    <td class="tg-0lax">Processing Entities</td>
-    <td class="tg-0lax">This covers the 'nature' of the processing entity with which data is shared. From the sample set, we identify the following 'Proessing Entities' [(Service Provider), and (Third-parties)]. 'Third-parties' can be further broken down into [(Third-party processor), (Third-party service provider), (Other third party)]. 'Processor' here refers to Data Processor as defined by the GDPR.</td>
+    <td class="tg-0lax">Processing Roles</td>
+    <td class="tg-0lax">This covers the 'Roles' of the processing entity with which data is shared. From the sample set, we identify the following 'Processing Roles' [(Service Provider),(Third-party processor), (Third-party service provider), (Other third party)]. 'Processor' here refers to Data Processor as defined by the GDPR.</td>
     <td class="tg-0lax">(Service provider, third-party processor, third-party service provider, other third-party)</td>
     <td class="tg-0lax">-</td>
     <td class="tg-0lax">-</td>
@@ -211,7 +211,7 @@ A graphical depiction of the taxonomy is available here:  https://app.lucidchart
   </tr>
   <tr>
     <td class="tg-0lax">Data Security</td>
-    <td class="tg-0lax">(PENDING)</td>
+    <td class="tg-0lax">('Reasonable measures')</td>
     <td class="tg-0lax">-</td>
     <td class="tg-0lax">-</td>
     <td class="tg-0lax">-</td>
@@ -332,7 +332,7 @@ A graphical depiction of the taxonomy is available here:  https://app.lucidchart
     <td class="tg-0pky">   <br>The collector (data consumer) of a data item should be identified.   </td>
     <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Yes&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="background-color:">Yes</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0pky">'Processing Entities'</td>
+    <td class="tg-0pky"> 'Data Shared with' and 'Processing Roles'</td>
   </tr>
   <tr>
     <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
