@@ -442,12 +442,18 @@ A graphical depiction of the taxonomy is available here:  https://app.lucidchart
   <tr>
     <td class="tg-0pky">1</td>
     <td class="tg-0pky">OpenTracks does <span style="background-color: 	#008080"> only store data on the local device</span> that is <span style="background-color:#FFDAB9">relevant for tracking your sport exercise</span>. <span style="background-color:#ffb3b3">Stored data is not transmitted from the app itself to a third party<span>.</td>
-    <td class="tg-0pky"><span style="background-color: 	#008080">retention_location: on_device</span> <span style="background-color: #FFDAB9"><br>functionality: activity_tracking<br></span><span style="background-color:#ffb3b3">type_of_data_collected: [none]<span></td>
+    <td class="tg-0pky"><span style="background-color: 	#008080">retention_location: on device</span> <span style="background-color: #FFDAB9"><br>functionality: activity tracking<br></span><span style="background-color:#ffb3b3">type_of_data_collected: [none]<span></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky"><span style= "background-color: #33acff ">For the performance of our agreement with you</span>:  <p>In order to <span style= "background-color: #FFDAB9">manage and handle your purchases (online and in our stores) </span> and <span style= "background-color: #9acbed">to provide you with the Services you <span style= "background-color: #FFDAB9"> requested from us </span>, including handling your requests, we use your <span style= "background-color: #ffb3b3">contact details, your account and electronic  identiǼication data, information regarding your purchases in our stores and online, information regarding your  leisure activities, interest and events, information regarding your training and running data (including your Ǽitness  activities), your Contest data, your communication data and – after your consent thereto – information regarding  your Personal measurement, your running specifics, your tests, measurement results, and your location data.</span></p>
+</td>
+    <td class="tg-0pky"><span style="background-color: #33acff">legal_basis: performance of 
+    contract</span><br>
+    <span style="background-color: #FFDAB9">functionalities: online purchases, offline purchases, purchase fulfilment, handling user requests</span><br>
+    <span style="background-color: #9acbed">purpose:provision of requested services</span><br>
+    <span style="background-color: #ffb3b3">types_of_data_collected: User Contact Details, Electronic Identifier, User Behaviour, User Opinion and Preferences, Physical activity data, Physical attributes, [Precise] location data. </span>
+    </td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
