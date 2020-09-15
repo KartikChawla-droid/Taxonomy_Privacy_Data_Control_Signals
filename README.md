@@ -456,8 +456,19 @@ A graphical depiction of the taxonomy is available here:  https://app.lucidchart
     </td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">
+   <span style="background-color: #FFDAB9"><b>Profile</b></span>. Your profile is <span style="background-color: #ff9900">fully visible to your friends on Runtastic by default</span>. This means, <span style="background-color: #FFDAB9">as soon as  you add friends in the products</span>, those people will be able to see your profile, including when you  <span style="background-color:  #ffb3b3">join groups and events</span>. <span style="background-color: #99e699">In your privacy settings</span> you can also <span style="background-color: #009933">set your profile visibility to “Only me” or  “Everybody”</span>. <span style="background-color: #ffb3b3">Please note that your first name, last name, and profile picture </span> are <span style="background-color: #d6f5d6">visible to everybody  at all times</span>. This is necessary to enable others to send you a friend request.
+    </td>
+    <td class="tg-0pky">
+    <span style="background-color: #FFDAB9">functionalities: User Profile, Social Network
+    </span>
+    <span style="background-color: #ffb3b3">types_of_data_collected: Registration Data (Name), Images and Videos (Profile Picture), User Behaviour (App Usage activity)</span>
+    <span style="background-color: #ff9900">active_audience: selected other users of service
+    </span><br>
+    <span style="background-color: #009933"> User Control Option: change audience;    </span><br>
+    <span style="background-color: #99e699"> User Control Channel: via app settings </span><br>
+    <span style="background-color: #d6f5d6"> User Control Limitation: types_of_data_collected(Name, Profile Picture) are visible to everybody at all times.
+    </td>
     <td class="tg-0pky"></td>
   </tr>
 </tbody>
