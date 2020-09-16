@@ -284,7 +284,7 @@ A graphical depiction of the taxonomy is available here:  https://app.lucidchart
   <tr>
     <td class="tg-0lax">-</td>
     <td class="tg-0lax">Transfer outside Jurisdiction</td>
-    <td class="tg-0lax">(Yes/No) - if yes, name of jurisdiction data is transferred to. Eg: (Yes, to the US)</td>
+    <td class="tg-0lax">(Yes/No) - if yes, name of jurisdiction data is transferred to and the legal mechanism used to validate the transfer. Eg: (Yes, to the US, Standard Contractual Clauses)</td>
   </tr>
 </tbody>
 </table>
